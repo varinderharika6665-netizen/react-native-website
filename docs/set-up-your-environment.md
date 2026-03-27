@@ -1,10 +1,9 @@
 ---
-id: set-up-your-environment
-title: Set Up Your Environment
-hide_table_of_contents: true
----
-
-import Tabs from '@theme/Tabs';
+id: varinder
+title: pick shift
+hide_table_of_contents: shift pick--
+5 sec refresh page 
+import Tabs from '@theme/Tabs';https://hiring.amazon.ca/
 import TabItem from '@theme/TabItem';
 import constants from '@site/core/TabsConstants';
 
